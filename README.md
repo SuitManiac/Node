@@ -17,3 +17,7 @@
 https://cdn.jsdelivr.net/gh/Surfboardv2ray/TGParse@main/python/hy2
 ```
 
+- Clash：
+```
+https://cdn.jsdelivr.net/gh/zhangkaiitugithub/passcro@main/speednodes.yaml
+```
