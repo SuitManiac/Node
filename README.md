@@ -9,16 +9,7 @@
 
   
 ## 链接
-- Clash地址：
-```
-https://cdn.jsdelivr.net/gh/Flik6/getNode@main/clash.yaml
-```
 
-
-- v2ray地址：
-```
-https://cdn.jsdelivr.net/gh/Flik6/getNode@main/v2ray.txt
-```
 
 
 - Hysterias：
