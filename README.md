@@ -20,3 +20,9 @@ https://cdn.jsdelivr.net/gh/Flik6/getNode@main/clash.yaml
 https://cdn.jsdelivr.net/gh/Flik6/getNode@main/v2ray.txt
 ```
 
+
+- Hysterias：
+```
+https://cdn.jsdelivr.net/gh/Surfboardv2ray/TGParse@main/python/hy2
+```
+
